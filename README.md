@@ -1,0 +1,6 @@
+-oi so ppero  
+-estudo programação desde os 13
+-atualmente estou no ensino médio e estudo programação full stack
+-Minhas rede sociais são :
+-Tt : @pperojs
+-Instagram : @ppero.js
