@@ -3,4 +3,4 @@
 - atualmente estou no ensino médio e estudo programação full stack
 - Minhas rede sociais são :
 - Tt : @pperojs
-- Instagram : @ppero.js
+- Instagram : @pp.ero
