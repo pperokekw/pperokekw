@@ -2,9 +2,4 @@
 > 19
  
 > Ecp UFRGS
-
-You say you want a revolution
-
-Well, you know
-
-We all want to change the world
+<p align="center">You say you want a revolution<br>Well, you know<br>We all want to change the world</p> 
